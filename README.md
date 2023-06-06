@@ -3,6 +3,9 @@ The "React-todoApp" repository is a project that focuses on building a todo list
 
 The React Todo App is a web application designed to help users organize their tasks and manage their to-do lists efficiently. It is built using React, a popular JavaScript library for building user interfaces.
 
+![Screenshot (11)](https://github.com/Karthik07k/React-todo-App/assets/117428424/ef239224-d3c6-4128-993c-8c53f8b39d48)
+
+
 Step-by-Step Project Description:
 
 Project Setup: The first step involves setting up the development environment for the React Todo App. This includes installing the necessary dependencies, such as Node.js and npm (Node Package Manager), and creating a new React project using the create-react-app command.
@@ -23,5 +26,8 @@ Completing and Deleting Tasks: The TodoList component allows users to mark tasks
 Styling and UI Design: The React Todo App utilizes CSS and Bootstrap to style the components and create an intuitive user interface. The styling is kept simple and minimalistic, focusing on readability and usability.
 
 Testing and Deployment: The project can be tested locally by running the development server provided by React. Once the app is tested and ready, it can be deployed to various hosting platforms, such as GitHub Pages, Netlify, or Heroku, to make it accessible to users on the web.
+
+![Screenshot (13)](https://github.com/Karthik07k/React-todo-App/assets/117428424/4a960aed-d8e4-45d1-b97f-19b36ee08342)
+
 
 Overall, the React Todo App provides a straightforward and user-friendly interface for managing tasks and to-do lists. It showcases the power and flexibility of React in building interactive web applications. Developers can use this project as a starting point to learn React or as a reference for implementing similar functionality in their own applications.
